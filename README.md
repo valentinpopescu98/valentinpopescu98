@@ -1,7 +1,8 @@
-### Hi there 👋
+### 🌍 Web Development Enthusiast
+## 💼 Experience:
+- Back-End Developer @Endava
 
-<!--
-**valentinpopescu98/valentinpopescu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub metrics](https://metrics.lecoq.io/valentinpopescu98)  
 
 Here are some ideas to get you started:
 
