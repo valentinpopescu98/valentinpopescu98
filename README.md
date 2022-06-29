@@ -1,5 +1,6 @@
-# 🌍 Web Development Enthusiast
-### 💼 Experience:
+# Web Development Enthusiast 🌍
+
+### Experience 💼
 - Back-End Developer @Endava
 - Embedded Development Intern @Continental
 
