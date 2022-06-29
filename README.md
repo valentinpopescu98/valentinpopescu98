@@ -1,6 +1,6 @@
 # 🌍 Web Development Enthusiast
 ### 💼 Experience:
-- Embedded Development Intern @Continental
 - Back-End Developer @Endava
+- Embedded Development Intern @Continental
 
 ![GitHub metrics](https://metrics.lecoq.io/valentinpopescu98)  
